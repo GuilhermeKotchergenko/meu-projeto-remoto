@@ -12,3 +12,7 @@ $ git init
 ```
 git status
 ```
+- Para adicionar novas mudanças
+```
+git add <NOMEDOARQUIVO>
+```
