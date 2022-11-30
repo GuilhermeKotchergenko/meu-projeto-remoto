@@ -2,21 +2,21 @@
 
 ## Primeiro passo
 
-- Inicializar o projeto (repositório local)
+- Como inicializar o projeto (repositório local)
 
 ```bash
 $ git init
 ```
 
-- Descobrir o status do repositorio
+- Como descobrir o status do repositorio
 ```
 git status
 ```
-- Para adicionar novas mudanças
+- Como adicionar novas mudanças
 ```
 git add <NOMEDOARQUIVO>
 ```
--Para gravar as mudanças
+-Como gravar as mudanças
 ```
 git commit -m "MESSAGE"
 ```
