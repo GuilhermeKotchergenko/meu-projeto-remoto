@@ -20,3 +20,8 @@ git add <NOMEDOARQUIVO>
 ```
 git commit -m "MESSAGE"
 ```
+
+-Como visualizar a diferença entre as versões
+```
+git diff
+```
